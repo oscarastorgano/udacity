@@ -19,5 +19,9 @@ This repo contains the source code of a blog project that will be used throughou
 * Oscar Astorgano
     - [https://github.com/oscarastorgano](https://github.com/oscarastorgano)
     
+    My first project with git.
+    Enjoying this nanodegree.
+    
+    
 
 
